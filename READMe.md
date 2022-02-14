@@ -57,4 +57,4 @@ EOF
 5. change made on dev brance
 
 --- 
-Tigger deployment job if the merge was successfull
+Tigger deployment job if the merge was successful
