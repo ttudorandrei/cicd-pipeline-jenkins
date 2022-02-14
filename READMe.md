@@ -57,4 +57,5 @@ EOF
 5. change made on dev brance
 
 --- 
-Tigger deployment job if the merge was successful
+Tigger deployment job if the merge was successfull
+- Testing webhook in bootcamp test7
